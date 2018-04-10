@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="junit-4.11">
+    <CLASSES>
+      <root url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/lib/junit-4.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
